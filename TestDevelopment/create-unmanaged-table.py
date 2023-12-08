@@ -11,6 +11,8 @@
 # MAGIC NOW
 # MAGIC 1. Write out the DataFrame in Delta format
 # MAGIC 2. Wrap that data with a Delta table
+# MAGIC
+# MAGIC Pushing this to test the version control capabilities of Databricks
 
 # COMMAND ----------
 
